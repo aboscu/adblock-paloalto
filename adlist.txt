@@ -1,4 +1,6 @@
 anuntul.ro
+googleads.g.doubleclick.net
+*.googleads.g.doubleclick.net
 *.1-1ads.com
 1-1ads.com
 *.101com.com
