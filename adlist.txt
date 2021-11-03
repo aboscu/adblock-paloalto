@@ -3818,8 +3818,6 @@ google-analytics.com
 googleadservices.com
 *.googleanalytics.com
 googleanalytics.com
-*.googlesyndication.com
-googlesyndication.com
 *.googletagmanager.com
 googletagmanager.com
 *.googletagservices.com
